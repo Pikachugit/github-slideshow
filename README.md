@@ -10,4 +10,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+本课程使用：火花：开源项目[reveal.js]（https://github.com/hakimel/reveal.js/）。在某些情况下，我们对历史记录进行了更改，刹车在上课时表现良好，因此请转到原始项目存储库，以了解有关该项目背后的好人的更多信息。
+叮咚
